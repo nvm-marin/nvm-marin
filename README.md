@@ -1,5 +1,5 @@
-# Marin 
-I have a strong passion for reverse engineering, delving into complex security systems to understand their intricacies and assess their safety. I thrive on developing my skills and acquiring new knowledge each day
+# マリン
+Just a human
 
 
 
